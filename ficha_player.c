@@ -1,5 +1,3 @@
-//Desenvolva um programa que mostre uma ficha de um jogador.
-
 #include <stdio.h>
 
 int main()

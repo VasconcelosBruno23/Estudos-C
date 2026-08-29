@@ -1,4 +1,3 @@
-//Sistema para cadastrar produto.
 #include <stdio.h>
 
 int main()
@@ -14,4 +13,3 @@ int main()
 
   return 0;
 }
-//Esse tipo de programa já se aproxima de sistemas reais.

@@ -1,5 +1,3 @@
-//Primeiro Programa Interativo
-
 #include <stdio.h>
 
 int main()

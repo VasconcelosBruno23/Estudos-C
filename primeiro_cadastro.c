@@ -1,4 +1,3 @@
-//Vamos criar um pequeno cadastro.
 #include <stdio.h>
 
 int main()
@@ -12,9 +11,3 @@ int main()
 
   return 0;
 }
-
-/*Resultado:
-Idade:20
-Nota :8.5
-Turma: A
-Perceba que o programa já está armazenando informações.*/
